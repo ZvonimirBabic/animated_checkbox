@@ -1,39 +1,19 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+Flutter package made using canvas,stack and animation controller to create a beautiful animated checkbox that transfrom into a line that crosses and blurs it child over the duration.
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Here is a video demonstration of the checkboxes in action.
 
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+https://github.com/ZvonimirBabic/animated_checkbox/assets/57459616/d5e6b9d1-e2ad-4be3-a61c-92c7804a9369
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+The package is simple and easy to use. Full example can be found in the /example folder.
 
-```dart
-const like = 'sample';
-```
+![animated_checkbox_usage_example](https://github.com/ZvonimirBabic/animated_checkbox/assets/57459616/7f578c43-5bcd-4199-ba25-3a8001f4bdb5)
+
 
 ## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+Package was made by me during my time in Cinnamon Agency as a way to promote the company on pub.dev
+Have not managed to release it but it is in good hands and I hope to see it live and used by many
